@@ -21,3 +21,5 @@ Example: 1_edge.png -> 2_folder.png -> 3_windows.png
 1) Double click "custom_automation.py"
 2) If you are running windows 10 OS, it will automate the mouse clicks by default examples
 3) Press "Escape" to quit
+4) Print screen and crop any png image you wish to automate and dump to "input_images" folder
+5) Set the custom variables, then run your own automation 
