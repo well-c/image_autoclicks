@@ -3,7 +3,7 @@ Automate mouse clicks using image detection in current screen
 
 # How it works
 Dump all your images in "input_images" folder, label accordingly which image you wish to click.
-This script will automate mouse left clicks in the order of the naming in loops, examples are included.
+This script will automate mouse left clicks (center of image) in the order of the naming in loops, examples are included.
 
 Example: 1_edge.png -> 2_folder.png -> 3_windows.png
 
