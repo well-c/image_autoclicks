@@ -13,9 +13,9 @@ Example: 1_edge.png -> 2_folder.png -> 3_windows.png
    pip install pyautogui keyboard numpy opencv-python
 
 # Custom Variables
-max_loop: the amount of loops you want to run (default 2)
-click_interval: interval between each mouse clicks in second (default 1)
-loop_interval: interval between each loop in second  (default 1)
+1) max_loop: the amount of loops you want to run (default 2)
+2) click_interval: interval between each mouse clicks in second (default 1)
+3) loop_interval: interval between each loop in second  (default 1)
 
 # How to run
 1) Double click "custom_automation.py"
