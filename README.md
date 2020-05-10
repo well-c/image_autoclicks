@@ -1,4 +1,4 @@
- # custom_automation
+ # Description
 Automate mouse clicks using image detection in current screen any number of times with python
 
 # How it works
