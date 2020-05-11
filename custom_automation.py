@@ -16,7 +16,7 @@ click_interval = 1
 loop_interval = 1
 
 # search and click image in the center
-def clickImage(image, threshold=0.8):
+def clickImage(image, threshold=0.5):
 
     # grab windows print screen
     screen_img = pyautogui.screenshot() 
